@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    
+  }
+  p {
+    margin: auto;
+    width: 50%;
+    
+    padding: 10px;
+    color: white;
+  }
+  .insta {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+  }
+  #instagram{
+    position: absolute;
+    bottom: -5px;
+    left: 30px;
+    font-size: 20px;
+  }
+  .github {
+    position: absolute;
+    bottom: 10px;
+    left:200px;
+    width: 50%;
+    font-size: 18px;
+    
+  }
+  #git{
+    position: absolute;
+    bottom: -5px;
+    left: 580px;
+    font-size: 20px;
+  }
+  .phone{
+    position: absolute;
+    bottom: 10px;
+    right:0px;
+    width: 50%;
+    font-size: 18px;
+  }
+  #number{
+    position: absolute;
+    bottom: -5px;
+    right: -380px;
+    font-size: 20px;
+  }
+  
